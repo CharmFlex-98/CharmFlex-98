@@ -1,6 +1,9 @@
-### Hi there 👋
-## ![](https://komarev.com/ghpvc/?username=charmflex-98&color=ff69b4)
 
+### ![](https://komarev.com/ghpvc/?username=charmflex-98&color=ff69b4)
+## Hi 👋
+Coming from an engineering background with proficient Korean speaking skills, I am currently a software developer focusing on Android development. I enjoy programming so much that I constantly engage in my own hobby projects during my free time. I consider myself independent, a team player, result-oriented, determined, and a strong learner.
+
+Currently I am learning backend technologies in my free time and continuing sharpen my skills on android/mobile frontend development. Learning new things keeps me excited, and I believe it will be an endless journey full of excitement.
 <!--
 **CharmFlex-98/CharmFlex-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
